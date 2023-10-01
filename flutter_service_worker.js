@@ -3,8 +3,8 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "a10f29922075bfd8e689ef739644bffd",
-"assets/AssetManifest.json": "22a24e980839e76f88e9a447ec95830e",
+const RESOURCES = {"assets/AssetManifest.bin": "9ec7742fe99416279738129a02269b0a",
+"assets/AssetManifest.json": "75d37dc72969ab4055be2a1a2d871651",
 "assets/assets/about_image.png": "565a3fbed2104ed6a373659404f84ae7",
 "assets/assets/Blowfish.png": "8801950faf9b95f2c429dfe933b93341",
 "assets/assets/dalhousie.png": "1007cc9859987291e676c80d84d824c9",
@@ -30,6 +30,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "a10f29922075bfd8e689ef739644bffd
 "assets/assets/techsIcon/vscode.png": "26d82f98ac9c5f6063940c752adb2aaa",
 "assets/assets/twitter.png": "b505cf67d945d508f97394a928059c26",
 "assets/assets/uofwindsor.png": "0123321a696826815936f21785b29abc",
+"assets/assets/Weiwei_Liu_Resume.pdf": "b2f7305d18c1c959b267a4d5a1472ed9",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "b5b224b241f967bf5b6587507f5d51a1",
 "assets/NOTICES": "73548eb4a138d5b484247c4c24941c0a",
@@ -49,9 +50,9 @@ const RESOURCES = {"assets/AssetManifest.bin": "a10f29922075bfd8e689ef739644bffd
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "e725ef7d58568f6ce43c66cff4f75f9b",
-"/": "e725ef7d58568f6ce43c66cff4f75f9b",
-"main.dart.js": "1b30ac66c7a401b267f79a3f09495c94",
+"index.html": "6e3c4d0a31ca6f75b991cd779837395e",
+"/": "6e3c4d0a31ca6f75b991cd779837395e",
+"main.dart.js": "f090aa9e761127bd5d851f352fb7d9a1",
 "manifest.json": "9583ebe54188295a4768ae1aa040030b",
 "version.json": "cc1fa9cce5af273c0909d105387fee89"};
 // The application shell files that are downloaded before a service worker can
